@@ -8,4 +8,6 @@
           Aqui estarei postando alguns exercícios que eu fiz em pseudocódigo pelo VisualG lá do comecinho do meu aprendizado em programação, quando eu estava fazendo o curso de algoritmos do <b>Curso Em Vídeo.💻</b> 
           <h5> Caso alguém tenha uma sugestão ou dúvida sobre, pode perguntar ou realizar um fork que eu ficarei muito feliz com o feedback 😁 </h5>
 
-<a href="https://github.com/fssjIflavio/exercicios-visualg/blob/main/Simulador%20de%20JoKenPo.ALG">Jogo de JoKenPo. </a>
+<h2> Este é um programa que simula um jogo de <b>JoKenPo</b> (pedra, papel e tesoura), foi um dos primeiros exercícios que me fez pensar mais rsrs 🤯: </h2>
+<hr>
+<a href="https://github.com/fssjIflavio/exercicios-visualg/blob/main/Simulador%20de%20JoKenPo.ALG">Jogo de JoKenPo.</a>

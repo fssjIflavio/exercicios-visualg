@@ -1,5 +1,3 @@
-<h1> Este é um programa que simula um jogo de <b>JoKenPo</b> (pedra, papel e tesoura), foi um dos primeiros exercícios que me fez pensar mais rsrs 🤯. </h1>
-
 Var
    pedra, papel, tesoura, jogada1, jogada2: inteiro
 
