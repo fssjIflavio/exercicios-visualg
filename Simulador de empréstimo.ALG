@@ -1,6 +1,3 @@
-<h1> Este é um programa feito para simular um <b>empréstimo</b> bancário para compra de uma casa, com a seguinte condição:
-   Se o valor da prestação mensal do empréstimo <b>exceder</b> 30% do salário do indivíduo, o empréstimo é <s>recusado</s>, se não, o empréstimo é <s>aprovado</s>.
-
 Var
    casa, renda, tempo: inteiro
    valorMensal, exceder: real
