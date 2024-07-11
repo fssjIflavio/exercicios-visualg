@@ -1,11 +1,3 @@
-<h1>Este é um programa que calcula o valor de aluguel de carros em uma locadora. Foi dada as seguintes condições para calcular o valor: </h1>
-<ul> 
-<li> Carros <s>populares</s> custam <b>R$ 90</b> por dia, para quilometragens abaixo de <b>100</b>, há um custo de <b>R$0,20</b> por dia, e para quilometragens acima de <b>100</b>, há um custo de <b>R$0,10</b> por dia. </li>
-<li> Carros de <s>luxo</s> custam <b>R$ 150</b> por dia, para quilometragens abaixo de <b>200</b>, há um custo de <b>R$0,30</b> por dia, e para quilometragens acima de <b>200</b>, há um custo de <b>R$0,25</b> por dia. </li>
-</ul>
-
-<h3> Esse exercício eu sofri em rsrsrsrs </h3>
-
 Var
    diasAluguel, kmPercorridos : real
    opcaoMenu, tipoCarro: caractere
